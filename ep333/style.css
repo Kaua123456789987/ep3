@@ -1,0 +1,18 @@
+header{
+    background-color: rgb(15, 15, 15);
+    border-radius: 20px;
+    padding: 2%;
+}
+
+.logo{
+    width: 20%;
+    height: 20%;
+}
+
+nav li{
+    display: inline;
+}
+
+body{
+    background-color: antiquewhite;
+}

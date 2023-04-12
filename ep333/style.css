@@ -3,7 +3,15 @@ header{
     border-radius: 20px;
     padding: 2%;
 }
-
+footer{
+    background-color: rgb(15, 15, 15);
+    border-radius: 20px;
+    padding: 2%;
+}
+p{
+    padding: 8%;
+    font-size: 115%;
+}
 .logo{
     width: 20%;
     height: 20%;
@@ -15,4 +23,7 @@ nav li{
 
 body{
     background-color: antiquewhite;
+}
+.broxa{
+    width: 20%;
 }
